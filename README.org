@@ -1,0 +1,9 @@
+* Free Ebooks
+** Creative Commons
+- [[https://eloquentjavascript.net/][Eloquent JavaScript]]
+- [[https://resilientwebdesign.com/][Resilient Web Design]]
+- [[https://git-scm.com/book/en/v2][Pro Git]] book
+- [[https://webliteracy.pressbooks.com/][Web Literacy]] for Student Fact-Checkers
+** Other
+- [[https://practicaltypography.com/][Butterick's Practical Typography]]
+- [[https://www.artlebedev.ru/kovodstvo/sections/][.ру/Ководство]]
