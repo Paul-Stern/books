@@ -1,3 +1,4 @@
+# #+TITLE: Free Learning Resources 
 * Free Ebooks
 ** Creative Commons
 - [[https://eloquentjavascript.net/][Eloquent JavaScript]]
@@ -7,3 +8,5 @@
 ** Other
 - [[https://practicaltypography.com/][Butterick's Practical Typography]]
 - [[https://www.artlebedev.ru/kovodstvo/sections/][.ру/Ководство]]
+* Links
+https://mashable.com/2010/08/18/free-ebooks-web-designers/
