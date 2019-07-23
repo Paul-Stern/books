@@ -9,4 +9,7 @@
 - [[https://practicaltypography.com/][Butterick's Practical Typography]]
 - [[https://www.artlebedev.ru/kovodstvo/sections/][.ру/Ководство]]
 * Links
-https://mashable.com/2010/08/18/free-ebooks-web-designers/
+- https://mashable.com/2010/08/18/free-ebooks-web-designers/
+- [[https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md][Books]] on Ebook Foundation (github.com)
+- Open source [[https://www.ossblog.org/opensourcebooks/][books]] (ossblog.org)
+- https://goalkicker.com/ \mdash Books compiled from Stack Overflow
